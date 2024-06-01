@@ -1,0 +1,10 @@
+.aboutUs{
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.aboutUs>h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
